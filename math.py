@@ -9,6 +9,6 @@ def add_one(n: int) -> int:
 
 if __name__ == "__main__":
     
-    if add_one(1) == 4:
+    if add_one(1) == 2:
         sys.exit(0)
     sys.exit(1)
