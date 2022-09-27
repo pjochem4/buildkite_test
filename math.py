@@ -1,11 +1,13 @@
 import sys
 
-
 def add_two(n: int) -> int:
     return n + 2
 
 def add_one(n: int) -> int:
     return n + 1
+
+def add_two(n: int) -> int:
+    return n + 2
 
 if __name__ == "__main__":
     
